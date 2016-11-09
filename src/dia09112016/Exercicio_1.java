@@ -68,6 +68,7 @@ int[] paraSubtrair = {3, 6};
 		
 		for (int i=0; i < somar; i++)
 	
+			//a acabar o exercicio 3
 		
 		System.out.println(  notas  );
 	}
