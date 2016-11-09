@@ -1,4 +1,5 @@
-
+import dia09112016.TreinoArrays;
+import dia09112016.Exercicio_1;
 public class Principal {
 
 	public Principal() {
@@ -7,28 +8,12 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+	//	new TreinoArrays ();
+		new Exercicio_1 ();
 		
-		String mensagem = "Olá turma, de mensagem";
 		
-		System.out.println(mensagem);
 		
-		int agua = 40;
-		int luz = 20;
-		int gas = 20;
-		int fibra = 60;
-		
-		/*
-		agua = 40;
-		luz = 20;
-		gas = 20;
-		fibra = 60;
-		*/
-		
-		int despesas = agua + luz + gas + fibra;
-		// TODO MOSTRAR NO ECRA O TOTAL DAS DESPESAS
-		
-		System.out.println(despesas);
-		
-		}
 
+	}
 }
+

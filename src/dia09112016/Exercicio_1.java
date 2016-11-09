@@ -67,7 +67,7 @@ int[] paraSubtrair = {3, 6};
 		
 		
 		for (int i=0; i < somar; i++)
-		
+	
 		
 		System.out.println(  notas  );
 	}
