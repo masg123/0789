@@ -48,8 +48,8 @@ int[] paraSubtrair = {3, 6};
 			subtrair = subtrair * paraSubtrair[i];
 		
 		
-				// mostre no ecrã a subtração obtida
-		System.out.println(subtarir);
+		// mostre no ecrã a subtração obtida
+		
 		
 	}
 	public void exercicio_3()

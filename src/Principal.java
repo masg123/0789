@@ -1,5 +1,7 @@
 import dia09112016.TreinoArrays;
 import dia09112016.Exercicio_1;
+
+
 public class Principal {
 
 	public Principal() {
@@ -9,11 +11,10 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	//	new TreinoArrays ();
-		new Exercicio_1 ();
+	//	new Exercicio_1 ();
 		
 		
 		
 
 	}
 }
-
